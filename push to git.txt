@@ -1,0 +1,9 @@
+open git hub account
+1 create a new repository
+2 name the repository
+3 copy the git link https://github.com/MdManoyarHosen/htmlFile_1.git
+4. open vs code
+5. click on source control select initialze repository
+6 write a message
+7. click on tik sign
+
